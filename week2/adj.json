@@ -1,0 +1,46 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "title": {
+      "text": "Total IMF Credit outstanding for all members ",
+      "subtitle":"As a percent of World GDP, current prices, source: IMF, worlddata",
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"},
+  
+  "data":{"url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/extcred1_adj.csv"},
+  
+
+
+  "height": 300,
+  "width": 260,
+
+  "mark": {
+    "type": "bar",
+    "color": "#86d0bb"},
+
+"encoding": {
+     "x": {
+       "field": "Year",
+       "type": "temporal",
+       "axis": {
+         "title": null,
+         "grid": false,
+         "ticks": false,
+         "labelAngle": 45}},
+
+      "y": {
+        "field": "Proportion",
+        "type": "quantitative",
+        "title": "",
+        "axis": {"grid": false}}
+  
+}
+}
+
+
+
+
+
+
+
