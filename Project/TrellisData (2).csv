@@ -1,0 +1,657 @@
+,Date,Value,Series
+240,2016 JAN,99.7,Electricity
+241,2016 FEB,100.2,Electricity
+242,2016 MAR,99.6,Electricity
+243,2016 APR,98.0,Electricity
+244,2016 MAY,97.5,Electricity
+245,2016 JUN,97.1,Electricity
+246,2016 JUL,100.2,Electricity
+247,2016 AUG,101.4,Electricity
+248,2016 SEP,101.2,Electricity
+249,2016 OCT,100.4,Electricity
+250,2016 NOV,104.8,Electricity
+251,2016 DEC,109.2,Electricity
+252,2017 JAN,104.9,Electricity
+253,2017 FEB,104.8,Electricity
+254,2017 MAR,100.6,Electricity
+255,2017 APR,100.0,Electricity
+256,2017 MAY,103.0,Electricity
+257,2017 JUN,103.2,Electricity
+258,2017 JUL,102.2,Electricity
+259,2017 AUG,101.7,Electricity
+260,2017 SEP,102.5,Electricity
+261,2017 OCT,106.9,Electricity
+262,2017 NOV,108.9,Electricity
+263,2017 DEC,110.9,Electricity
+264,2018 JAN,109.0,Electricity
+265,2018 FEB,109.4,Electricity
+266,2018 MAR,104.9,Electricity
+267,2018 APR,106.0,Electricity
+268,2018 MAY,104.7,Electricity
+269,2018 JUN,107.0,Electricity
+270,2018 JUL,105.4,Electricity
+271,2018 AUG,106.7,Electricity
+272,2018 SEP,110.4,Electricity
+273,2018 OCT,115.4,Electricity
+274,2018 NOV,113.3,Electricity
+275,2018 DEC,117.4,Electricity
+276,2019 JAN,121.3,Electricity
+277,2019 FEB,125.1,Electricity
+278,2019 MAR,118.2,Electricity
+279,2019 APR,123.8,Electricity
+280,2019 MAY,121.2,Electricity
+281,2019 JUN,124.3,Electricity
+282,2019 JUL,123.1,Electricity
+283,2019 AUG,123.1,Electricity
+284,2019 SEP,121.3,Electricity
+285,2019 OCT,127.1,Electricity
+286,2019 NOV,131.5,Electricity
+287,2019 DEC,135.4,Electricity
+288,2020 JAN,133.7,Electricity
+289,2020 FEB,130.5,Electricity
+290,2020 MAR,127.9,Electricity
+291,2020 APR,127.1,Electricity
+292,2020 MAY,120.8,Electricity
+293,2020 JUN,123.0,Electricity
+294,2020 JUL,128.5,Electricity
+295,2020 AUG,123.0,Electricity
+296,2020 SEP,124.3,Electricity
+297,2020 OCT,132.3,Electricity
+298,2020 NOV,131.8,Electricity
+299,2020 DEC,141.5,Electricity
+300,2021 JAN,138.4,Electricity
+301,2021 FEB,140.0,Electricity
+302,2021 MAR,141.8,Electricity
+303,2021 APR,138.6,Electricity
+304,2021 MAY,136.0,Electricity
+305,2021 JUN,131.0,Electricity
+306,2021 JUL,135.9,Electricity
+307,2021 AUG,142.7,Electricity
+308,2021 SEP,151.2,Electricity
+309,2021 OCT,149.1,Electricity
+310,2021 NOV,176.8,Electricity
+311,2021 DEC,151.2,Electricity
+312,2022 JAN,161.3,Electricity
+313,2022 FEB,162.2,Electricity
+314,2022 MAR,167.9,Electricity
+315,2022 APR,208.5,Electricity
+316,2022 MAY,188.2,Electricity
+317,2022 JUN,182.2,Electricity
+318,2022 JUL,183.0,Electricity
+319,2022 AUG,194.3,Electricity
+320,2022 SEP,212.9,Electricity
+321,2022 OCT,241.5,Electricity
+85,2016 JAN,92.3,Gas
+86,2016 FEB,90.2,Gas
+87,2016 MAR,88.4,Gas
+88,2016 APR,80.8,Gas
+89,2016 MAY,76.7,Gas
+90,2016 JUN,77.9,Gas
+91,2016 JUL,81.2,Gas
+92,2016 AUG,76.7,Gas
+93,2016 SEP,75.6,Gas
+94,2016 OCT,86.6,Gas
+95,2016 NOV,90.3,Gas
+96,2016 DEC,91.9,Gas
+97,2017 JAN,96.5,Gas
+98,2017 FEB,97.5,Gas
+99,2017 MAR,90.3,Gas
+100,2017 APR,86.2,Gas
+101,2017 MAY,86.3,Gas
+102,2017 JUN,81.2,Gas
+103,2017 JUL,81.3,Gas
+104,2017 AUG,85.7,Gas
+105,2017 SEP,87.4,Gas
+106,2017 OCT,87.7,Gas
+107,2017 NOV,94.6,Gas
+108,2017 DEC,96.9,Gas
+109,2018 JAN,97.5,Gas
+110,2018 FEB,100.5,Gas
+111,2018 MAR,105.1,Gas
+112,2018 APR,99.7,Gas
+113,2018 MAY,100.9,Gas
+114,2018 JUN,101.2,Gas
+115,2018 JUL,100.0,Gas
+116,2018 AUG,106.8,Gas
+117,2018 SEP,116.0,Gas
+118,2018 OCT,112.1,Gas
+119,2018 NOV,113.4,Gas
+120,2018 DEC,112.4,Gas
+121,2019 JAN,113.2,Gas
+122,2019 FEB,112.3,Gas
+123,2019 MAR,99.4,Gas
+124,2019 APR,98.5,Gas
+125,2019 MAY,91.0,Gas
+126,2019 JUN,86.8,Gas
+127,2019 JUL,89.2,Gas
+128,2019 AUG,88.7,Gas
+129,2019 SEP,86.8,Gas
+130,2019 OCT,89.7,Gas
+131,2019 NOV,99.2,Gas
+132,2019 DEC,102.5,Gas
+133,2020 JAN,102.5,Gas
+134,2020 FEB,100.4,Gas
+135,2020 MAR,93.6,Gas
+136,2020 APR,83.6,Gas
+137,2020 MAY,77.6,Gas
+138,2020 JUN,77.7,Gas
+139,2020 JUL,72.6,Gas
+140,2020 AUG,78.8,Gas
+141,2020 SEP,81.7,Gas
+142,2020 OCT,91.9,Gas
+143,2020 NOV,90.6,Gas
+144,2020 DEC,96.3,Gas
+145,2021 JAN,101.5,Gas
+146,2021 FEB,100.9,Gas
+147,2021 MAR,100.3,Gas
+148,2021 APR,99.4,Gas
+149,2021 MAY,107.9,Gas
+150,2021 JUN,108.4,Gas
+151,2021 JUL,119.7,Gas
+152,2021 AUG,130.7,Gas
+153,2021 SEP,149.7,Gas
+154,2021 OCT,157.8,Gas
+155,2021 NOV,171.2,Gas
+156,2021 DEC,161.7,Gas
+157,2022 JAN,176.4,Gas
+158,2022 FEB,168.4,Gas
+159,2022 MAR,195.9,Gas
+160,2022 APR,205.2,Gas
+161,2022 MAY,200.0,Gas
+162,2022 JUN,219.1,Gas
+163,2022 JUL,232.9,Gas
+164,2022 AUG,269.2,Gas
+165,2022 SEP,261.4,Gas
+166,2022 OCT,253.8,Gas
+240,2016 JAN,99.6,Beverages
+241,2016 FEB,99.6,Beverages
+242,2016 MAR,101.1,Beverages
+243,2016 APR,100.8,Beverages
+244,2016 MAY,99.1,Beverages
+245,2016 JUN,98.6,Beverages
+246,2016 JUL,98.6,Beverages
+247,2016 AUG,98.9,Beverages
+248,2016 SEP,99.1,Beverages
+249,2016 OCT,99.0,Beverages
+250,2016 NOV,98.9,Beverages
+251,2016 DEC,99.1,Beverages
+252,2017 JAN,99.3,Beverages
+253,2017 FEB,99.5,Beverages
+254,2017 MAR,99.6,Beverages
+255,2017 APR,99.8,Beverages
+256,2017 MAY,99.8,Beverages
+257,2017 JUN,99.8,Beverages
+258,2017 JUL,99.6,Beverages
+259,2017 AUG,99.2,Beverages
+260,2017 SEP,99.3,Beverages
+261,2017 OCT,99.2,Beverages
+262,2017 NOV,98.8,Beverages
+263,2017 DEC,99.7,Beverages
+264,2018 JAN,99.5,Beverages
+265,2018 FEB,99.8,Beverages
+266,2018 MAR,100.1,Beverages
+267,2018 APR,101.0,Beverages
+268,2018 MAY,100.1,Beverages
+269,2018 JUN,100.1,Beverages
+270,2018 JUL,98.4,Beverages
+271,2018 AUG,98.8,Beverages
+272,2018 SEP,100.3,Beverages
+273,2018 OCT,100.2,Beverages
+274,2018 NOV,100.2,Beverages
+275,2018 DEC,101.1,Beverages
+276,2019 JAN,101.2,Beverages
+277,2019 FEB,101.7,Beverages
+278,2019 MAR,101.6,Beverages
+279,2019 APR,103.1,Beverages
+280,2019 MAY,104.0,Beverages
+281,2019 JUN,104.4,Beverages
+282,2019 JUL,102.8,Beverages
+283,2019 AUG,103.2,Beverages
+284,2019 SEP,103.2,Beverages
+285,2019 OCT,103.3,Beverages
+286,2019 NOV,103.1,Beverages
+287,2019 DEC,103.4,Beverages
+288,2020 JAN,103.6,Beverages
+289,2020 FEB,104.5,Beverages
+290,2020 MAR,107.2,Beverages
+291,2020 APR,107.1,Beverages
+292,2020 MAY,106.2,Beverages
+293,2020 JUN,104.9,Beverages
+294,2020 JUL,105.0,Beverages
+295,2020 AUG,105.6,Beverages
+296,2020 SEP,106.1,Beverages
+297,2020 OCT,106.3,Beverages
+298,2020 NOV,108.6,Beverages
+299,2020 DEC,107.6,Beverages
+300,2021 JAN,107.9,Beverages
+301,2021 FEB,108.7,Beverages
+302,2021 MAR,110.6,Beverages
+303,2021 APR,107.8,Beverages
+304,2021 MAY,107.2,Beverages
+305,2021 JUN,108.2,Beverages
+306,2021 JUL,108.5,Beverages
+307,2021 AUG,108.6,Beverages
+308,2021 SEP,108.0,Beverages
+309,2021 OCT,107.5,Beverages
+310,2021 NOV,108.2,Beverages
+311,2021 DEC,107.5,Beverages
+312,2022 JAN,110.5,Beverages
+313,2022 FEB,112.6,Beverages
+314,2022 MAR,112.8,Beverages
+315,2022 APR,113.1,Beverages
+316,2022 MAY,113.7,Beverages
+317,2022 JUN,113.9,Beverages
+318,2022 JUL,114.0,Beverages
+319,2022 AUG,116.4,Beverages
+320,2022 SEP,115.5,Beverages
+321,2022 OCT,116.6,Beverages
+240,2016 JAN,98.1,Food Products
+241,2016 FEB,98.2,Food Products
+242,2016 MAR,98.3,Food Products
+243,2016 APR,98.0,Food Products
+244,2016 MAY,97.5,Food Products
+245,2016 JUN,97.4,Food Products
+246,2016 JUL,97.3,Food Products
+247,2016 AUG,97.6,Food Products
+248,2016 SEP,98.1,Food Products
+249,2016 OCT,98.8,Food Products
+250,2016 NOV,98.9,Food Products
+251,2016 DEC,99.0,Food Products
+252,2017 JAN,99.3,Food Products
+253,2017 FEB,99.7,Food Products
+254,2017 MAR,100.8,Food Products
+255,2017 APR,101.2,Food Products
+256,2017 MAY,102.2,Food Products
+257,2017 JUN,102.4,Food Products
+258,2017 JUL,103.0,Food Products
+259,2017 AUG,103.6,Food Products
+260,2017 SEP,104.3,Food Products
+261,2017 OCT,104.7,Food Products
+262,2017 NOV,105.0,Food Products
+263,2017 DEC,105.6,Food Products
+264,2018 JAN,104.5,Food Products
+265,2018 FEB,104.4,Food Products
+266,2018 MAR,104.6,Food Products
+267,2018 APR,104.6,Food Products
+268,2018 MAY,104.6,Food Products
+269,2018 JUN,104.7,Food Products
+270,2018 JUL,104.7,Food Products
+271,2018 AUG,104.8,Food Products
+272,2018 SEP,105.4,Food Products
+273,2018 OCT,105.3,Food Products
+274,2018 NOV,105.2,Food Products
+275,2018 DEC,105.3,Food Products
+276,2019 JAN,105.4,Food Products
+277,2019 FEB,105.2,Food Products
+278,2019 MAR,105.6,Food Products
+279,2019 APR,105.8,Food Products
+280,2019 MAY,106.2,Food Products
+281,2019 JUN,106.4,Food Products
+282,2019 JUL,106.5,Food Products
+283,2019 AUG,106.0,Food Products
+284,2019 SEP,105.7,Food Products
+285,2019 OCT,105.7,Food Products
+286,2019 NOV,105.4,Food Products
+287,2019 DEC,105.7,Food Products
+288,2020 JAN,106.1,Food Products
+289,2020 FEB,106.3,Food Products
+290,2020 MAR,106.3,Food Products
+291,2020 APR,106.1,Food Products
+292,2020 MAY,106.2,Food Products
+293,2020 JUN,106.6,Food Products
+294,2020 JUL,106.6,Food Products
+295,2020 AUG,106.5,Food Products
+296,2020 SEP,106.6,Food Products
+297,2020 OCT,106.2,Food Products
+298,2020 NOV,106.5,Food Products
+299,2020 DEC,106.7,Food Products
+300,2021 JAN,107.3,Food Products
+301,2021 FEB,107.9,Food Products
+302,2021 MAR,108.0,Food Products
+303,2021 APR,108.6,Food Products
+304,2021 MAY,109.2,Food Products
+305,2021 JUN,109.4,Food Products
+306,2021 JUL,109.6,Food Products
+307,2021 AUG,109.6,Food Products
+308,2021 SEP,110.2,Food Products
+309,2021 OCT,111.0,Food Products
+310,2021 NOV,111.8,Food Products
+311,2021 DEC,112.5,Food Products
+312,2022 JAN,113.7,Food Products
+313,2022 FEB,114.6,Food Products
+314,2022 MAR,115.8,Food Products
+315,2022 APR,118.2,Food Products
+316,2022 MAY,120.7,Food Products
+317,2022 JUN,123.4,Food Products
+318,2022 JUL,125.7,Food Products
+319,2022 AUG,126.5,Food Products
+320,2022 SEP,127.6,Food Products
+321,2022 OCT,128.8,Food Products
+40,2016 JAN,102.9,Basic Pharmas
+41,2016 FEB,104.5,Basic Pharmas
+42,2016 MAR,104.7,Basic Pharmas
+43,2016 APR,105.4,Basic Pharmas
+44,2016 MAY,104.6,Basic Pharmas
+45,2016 JUN,105.1,Basic Pharmas
+46,2016 JUL,108.8,Basic Pharmas
+47,2016 AUG,109.8,Basic Pharmas
+48,2016 SEP,109.7,Basic Pharmas
+49,2016 OCT,110.9,Basic Pharmas
+50,2016 NOV,110.2,Basic Pharmas
+51,2016 DEC,109.4,Basic Pharmas
+52,2017 JAN,109.4,Basic Pharmas
+53,2017 FEB,109.3,Basic Pharmas
+54,2017 MAR,110.2,Basic Pharmas
+55,2017 APR,110.0,Basic Pharmas
+56,2017 MAY,109.9,Basic Pharmas
+57,2017 JUN,110.1,Basic Pharmas
+58,2017 JUL,110.2,Basic Pharmas
+59,2017 AUG,111.3,Basic Pharmas
+60,2017 SEP,111.1,Basic Pharmas
+61,2017 OCT,111.0,Basic Pharmas
+62,2017 NOV,110.7,Basic Pharmas
+63,2017 DEC,110.6,Basic Pharmas
+64,2018 JAN,110.6,Basic Pharmas
+65,2018 FEB,109.3,Basic Pharmas
+66,2018 MAR,109.7,Basic Pharmas
+67,2018 APR,109.4,Basic Pharmas
+68,2018 MAY,109.2,Basic Pharmas
+69,2018 JUN,109.2,Basic Pharmas
+70,2018 JUL,109.4,Basic Pharmas
+71,2018 AUG,109.9,Basic Pharmas
+72,2018 SEP,109.9,Basic Pharmas
+73,2018 OCT,109.4,Basic Pharmas
+74,2018 NOV,109.3,Basic Pharmas
+75,2018 DEC,109.9,Basic Pharmas
+76,2019 JAN,109.7,Basic Pharmas
+77,2019 FEB,108.9,Basic Pharmas
+78,2019 MAR,108.6,Basic Pharmas
+79,2019 APR,108.2,Basic Pharmas
+80,2019 MAY,110.6,Basic Pharmas
+81,2019 JUN,111.1,Basic Pharmas
+82,2019 JUL,111.4,Basic Pharmas
+83,2019 AUG,112.8,Basic Pharmas
+84,2019 SEP,112.0,Basic Pharmas
+85,2019 OCT,111.9,Basic Pharmas
+86,2019 NOV,112.3,Basic Pharmas
+87,2019 DEC,111.1,Basic Pharmas
+88,2020 JAN,110.7,Basic Pharmas
+89,2020 FEB,111.2,Basic Pharmas
+90,2020 MAR,112.1,Basic Pharmas
+91,2020 APR,112.1,Basic Pharmas
+92,2020 MAY,112.4,Basic Pharmas
+93,2020 JUN,112.7,Basic Pharmas
+94,2020 JUL,113.2,Basic Pharmas
+95,2020 AUG,110.7,Basic Pharmas
+96,2020 SEP,111.0,Basic Pharmas
+97,2020 OCT,111.1,Basic Pharmas
+98,2020 NOV,110.8,Basic Pharmas
+99,2020 DEC,111.1,Basic Pharmas
+100,2021 JAN,110.5,Basic Pharmas
+101,2021 FEB,109.7,Basic Pharmas
+102,2021 MAR,109.2,Basic Pharmas
+103,2021 APR,109.5,Basic Pharmas
+104,2021 MAY,109.2,Basic Pharmas
+105,2021 JUN,108.1,Basic Pharmas
+106,2021 JUL,108.9,Basic Pharmas
+107,2021 AUG,109.3,Basic Pharmas
+108,2021 SEP,109.6,Basic Pharmas
+109,2021 OCT,109.6,Basic Pharmas
+110,2021 NOV,109.8,Basic Pharmas
+111,2021 DEC,110.2,Basic Pharmas
+112,2022 JAN,112.2,Basic Pharmas
+113,2022 FEB,112.5,Basic Pharmas
+114,2022 MAR,112.1,Basic Pharmas
+115,2022 APR,113.0,Basic Pharmas
+116,2022 MAY,113.0,Basic Pharmas
+117,2022 JUN,113.5,Basic Pharmas
+118,2022 JUL,113.7,Basic Pharmas
+119,2022 AUG,114.7,Basic Pharmas
+120,2022 SEP,114.8,Basic Pharmas
+121,2022 OCT,115.1,Basic Pharmas
+240,2016 JAN,102.5,Footwear
+241,2016 FEB,102.5,Footwear
+242,2016 MAR,102.5,Footwear
+243,2016 APR,102.5,Footwear
+244,2016 MAY,103.3,Footwear
+245,2016 JUN,103.3,Footwear
+246,2016 JUL,103.3,Footwear
+247,2016 AUG,103.3,Footwear
+248,2016 SEP,103.2,Footwear
+249,2016 OCT,103.2,Footwear
+250,2016 NOV,103.2,Footwear
+251,2016 DEC,103.2,Footwear
+252,2017 JAN,103.2,Footwear
+253,2017 FEB,104.5,Footwear
+254,2017 MAR,104.5,Footwear
+255,2017 APR,104.5,Footwear
+256,2017 MAY,104.4,Footwear
+257,2017 JUN,104.4,Footwear
+258,2017 JUL,105.6,Footwear
+259,2017 AUG,105.6,Footwear
+260,2017 SEP,105.8,Footwear
+261,2017 OCT,105.7,Footwear
+262,2017 NOV,105.7,Footwear
+263,2017 DEC,105.7,Footwear
+264,2018 JAN,106.2,Footwear
+265,2018 FEB,106.2,Footwear
+266,2018 MAR,106.2,Footwear
+267,2018 APR,106.3,Footwear
+268,2018 MAY,106.3,Footwear
+269,2018 JUN,106.3,Footwear
+270,2018 JUL,106.3,Footwear
+271,2018 AUG,106.3,Footwear
+272,2018 SEP,106.3,Footwear
+273,2018 OCT,107.1,Footwear
+274,2018 NOV,107.1,Footwear
+275,2018 DEC,107.1,Footwear
+276,2019 JAN,110.0,Footwear
+277,2019 FEB,110.1,Footwear
+278,2019 MAR,113.3,Footwear
+279,2019 APR,113.3,Footwear
+280,2019 MAY,114.4,Footwear
+281,2019 JUN,114.4,Footwear
+282,2019 JUL,118.3,Footwear
+283,2019 AUG,118.3,Footwear
+284,2019 SEP,118.3,Footwear
+285,2019 OCT,118.3,Footwear
+286,2019 NOV,118.1,Footwear
+287,2019 DEC,118.1,Footwear
+288,2020 JAN,118.0,Footwear
+289,2020 FEB,118.0,Footwear
+290,2020 MAR,118.8,Footwear
+291,2020 APR,118.8,Footwear
+292,2020 MAY,118.8,Footwear
+293,2020 JUN,118.8,Footwear
+294,2020 JUL,119.8,Footwear
+295,2020 AUG,119.8,Footwear
+296,2020 SEP,119.0,Footwear
+297,2020 OCT,119.0,Footwear
+298,2020 NOV,119.2,Footwear
+299,2020 DEC,119.2,Footwear
+300,2021 JAN,119.2,Footwear
+301,2021 FEB,119.2,Footwear
+302,2021 MAR,119.2,Footwear
+303,2021 APR,121.7,Footwear
+304,2021 MAY,121.7,Footwear
+305,2021 JUN,121.7,Footwear
+306,2021 JUL,121.7,Footwear
+307,2021 AUG,120.7,Footwear
+308,2021 SEP,120.7,Footwear
+309,2021 OCT,120.7,Footwear
+310,2021 NOV,120.7,Footwear
+311,2021 DEC,120.7,Footwear
+312,2022 JAN,132.9,Footwear
+313,2022 FEB,132.9,Footwear
+314,2022 MAR,132.9,Footwear
+315,2022 APR,133.3,Footwear
+316,2022 MAY,135.1,Footwear
+317,2022 JUN,135.1,Footwear
+318,2022 JUL,138.3,Footwear
+319,2022 AUG,138.5,Footwear
+320,2022 SEP,138.5,Footwear
+321,2022 OCT,138.5,Footwear
+85,2016 JAN,98.6,Mining + Manufactured
+86,2016 FEB,98.6,Mining + Manufactured
+87,2016 MAR,99.1,Mining + Manufactured
+88,2016 APR,99.2,Mining + Manufactured
+89,2016 MAY,99.3,Mining + Manufactured
+90,2016 JUN,99.7,Mining + Manufactured
+91,2016 JUL,100.2,Mining + Manufactured
+92,2016 AUG,100.4,Mining + Manufactured
+93,2016 SEP,100.6,Mining + Manufactured
+94,2016 OCT,101.7,Mining + Manufactured
+95,2016 NOV,101.8,Mining + Manufactured
+96,2016 DEC,102.1,Mining + Manufactured
+97,2017 JAN,102.9,Mining + Manufactured
+98,2017 FEB,103.2,Mining + Manufactured
+99,2017 MAR,103.4,Mining + Manufactured
+100,2017 APR,103.5,Mining + Manufactured
+101,2017 MAY,103.4,Mining + Manufactured
+102,2017 JUN,103.4,Mining + Manufactured
+103,2017 JUL,103.7,Mining + Manufactured
+104,2017 AUG,104.3,Mining + Manufactured
+105,2017 SEP,104.8,Mining + Manufactured
+106,2017 OCT,105.1,Mining + Manufactured
+107,2017 NOV,105.6,Mining + Manufactured
+108,2017 DEC,105.9,Mining + Manufactured
+109,2018 JAN,106.1,Mining + Manufactured
+110,2018 FEB,106.0,Mining + Manufactured
+111,2018 MAR,106.3,Mining + Manufactured
+112,2018 APR,106.9,Mining + Manufactured
+113,2018 MAY,108.1,Mining + Manufactured
+114,2018 JUN,108.5,Mining + Manufactured
+115,2018 JUL,108.3,Mining + Manufactured
+116,2018 AUG,108.7,Mining + Manufactured
+117,2018 SEP,109.3,Mining + Manufactured
+118,2018 OCT,109.8,Mining + Manufactured
+119,2018 NOV,109.1,Mining + Manufactured
+120,2018 DEC,108.4,Mining + Manufactured
+121,2019 JAN,108.3,Mining + Manufactured
+122,2019 FEB,108.5,Mining + Manufactured
+123,2019 MAR,108.8,Mining + Manufactured
+124,2019 APR,109.4,Mining + Manufactured
+125,2019 MAY,109.9,Mining + Manufactured
+126,2019 JUN,109.7,Mining + Manufactured
+127,2019 JUL,110.0,Mining + Manufactured
+128,2019 AUG,110.0,Mining + Manufactured
+129,2019 SEP,109.8,Mining + Manufactured
+130,2019 OCT,109.4,Mining + Manufactured
+131,2019 NOV,109.1,Mining + Manufactured
+132,2019 DEC,109.1,Mining + Manufactured
+133,2020 JAN,109.3,Mining + Manufactured
+134,2020 FEB,109.0,Mining + Manufactured
+135,2020 MAR,108.2,Mining + Manufactured
+136,2020 APR,106.9,Mining + Manufactured
+137,2020 MAY,106.8,Mining + Manufactured
+138,2020 JUN,107.5,Mining + Manufactured
+139,2020 JUL,107.8,Mining + Manufactured
+140,2020 AUG,107.7,Mining + Manufactured
+141,2020 SEP,107.6,Mining + Manufactured
+142,2020 OCT,107.6,Mining + Manufactured
+143,2020 NOV,108.2,Mining + Manufactured
+144,2020 DEC,108.6,Mining + Manufactured
+145,2021 JAN,109.4,Mining + Manufactured
+146,2021 FEB,110.1,Mining + Manufactured
+147,2021 MAR,110.6,Mining + Manufactured
+148,2021 APR,111.1,Mining + Manufactured
+149,2021 MAY,111.9,Mining + Manufactured
+150,2021 JUN,112.8,Mining + Manufactured
+151,2021 JUL,113.9,Mining + Manufactured
+152,2021 AUG,114.7,Mining + Manufactured
+153,2021 SEP,115.4,Mining + Manufactured
+154,2021 OCT,117.4,Mining + Manufactured
+155,2021 NOV,118.5,Mining + Manufactured
+156,2021 DEC,119.0,Mining + Manufactured
+157,2022 JAN,120.9,Mining + Manufactured
+158,2022 FEB,122.4,Mining + Manufactured
+159,2022 MAR,126.6,Mining + Manufactured
+160,2022 APR,130.0,Mining + Manufactured
+161,2022 MAY,132.6,Mining + Manufactured
+162,2022 JUN,135.6,Mining + Manufactured
+163,2022 JUL,137.1,Mining + Manufactured
+164,2022 AUG,136.9,Mining + Manufactured
+165,2022 SEP,136.8,Mining + Manufactured
+166,2022 OCT,138.0,Mining + Manufactured
+240,2016 JAN,100.2,Motor Vehicles
+241,2016 FEB,100.2,Motor Vehicles
+242,2016 MAR,100.1,Motor Vehicles
+243,2016 APR,100.1,Motor Vehicles
+244,2016 MAY,100.1,Motor Vehicles
+245,2016 JUN,100.1,Motor Vehicles
+246,2016 JUL,100.4,Motor Vehicles
+247,2016 AUG,100.4,Motor Vehicles
+248,2016 SEP,100.5,Motor Vehicles
+249,2016 OCT,100.9,Motor Vehicles
+250,2016 NOV,101.1,Motor Vehicles
+251,2016 DEC,101.1,Motor Vehicles
+252,2017 JAN,101.5,Motor Vehicles
+253,2017 FEB,101.6,Motor Vehicles
+254,2017 MAR,101.8,Motor Vehicles
+255,2017 APR,103.3,Motor Vehicles
+256,2017 MAY,103.3,Motor Vehicles
+257,2017 JUN,103.4,Motor Vehicles
+258,2017 JUL,103.6,Motor Vehicles
+259,2017 AUG,103.7,Motor Vehicles
+260,2017 SEP,103.7,Motor Vehicles
+261,2017 OCT,103.8,Motor Vehicles
+262,2017 NOV,103.9,Motor Vehicles
+263,2017 DEC,103.9,Motor Vehicles
+264,2018 JAN,104.2,Motor Vehicles
+265,2018 FEB,104.2,Motor Vehicles
+266,2018 MAR,104.3,Motor Vehicles
+267,2018 APR,104.3,Motor Vehicles
+268,2018 MAY,104.5,Motor Vehicles
+269,2018 JUN,105.5,Motor Vehicles
+270,2018 JUL,105.8,Motor Vehicles
+271,2018 AUG,105.8,Motor Vehicles
+272,2018 SEP,106.1,Motor Vehicles
+273,2018 OCT,106.7,Motor Vehicles
+274,2018 NOV,106.7,Motor Vehicles
+275,2018 DEC,106.8,Motor Vehicles
+276,2019 JAN,108.0,Motor Vehicles
+277,2019 FEB,108.0,Motor Vehicles
+278,2019 MAR,108.3,Motor Vehicles
+279,2019 APR,108.4,Motor Vehicles
+280,2019 MAY,108.4,Motor Vehicles
+281,2019 JUN,108.5,Motor Vehicles
+282,2019 JUL,108.5,Motor Vehicles
+283,2019 AUG,108.7,Motor Vehicles
+284,2019 SEP,107.8,Motor Vehicles
+285,2019 OCT,107.8,Motor Vehicles
+286,2019 NOV,107.8,Motor Vehicles
+287,2019 DEC,107.8,Motor Vehicles
+288,2020 JAN,107.6,Motor Vehicles
+289,2020 FEB,107.6,Motor Vehicles
+290,2020 MAR,107.6,Motor Vehicles
+291,2020 APR,107.5,Motor Vehicles
+292,2020 MAY,107.7,Motor Vehicles
+293,2020 JUN,107.7,Motor Vehicles
+294,2020 JUL,108.0,Motor Vehicles
+295,2020 AUG,108.0,Motor Vehicles
+296,2020 SEP,107.7,Motor Vehicles
+297,2020 OCT,107.8,Motor Vehicles
+298,2020 NOV,107.8,Motor Vehicles
+299,2020 DEC,107.8,Motor Vehicles
+300,2021 JAN,108.5,Motor Vehicles
+301,2021 FEB,108.8,Motor Vehicles
+302,2021 MAR,108.9,Motor Vehicles
+303,2021 APR,108.7,Motor Vehicles
+304,2021 MAY,109.0,Motor Vehicles
+305,2021 JUN,109.5,Motor Vehicles
+306,2021 JUL,109.8,Motor Vehicles
+307,2021 AUG,109.8,Motor Vehicles
+308,2021 SEP,110.0,Motor Vehicles
+309,2021 OCT,110.2,Motor Vehicles
+310,2021 NOV,111.2,Motor Vehicles
+311,2021 DEC,111.2,Motor Vehicles
+312,2022 JAN,111.0,Motor Vehicles
+313,2022 FEB,111.1,Motor Vehicles
+314,2022 MAR,111.1,Motor Vehicles
+315,2022 APR,112.2,Motor Vehicles
+316,2022 MAY,113.0,Motor Vehicles
+317,2022 JUN,113.2,Motor Vehicles
+318,2022 JUL,114.1,Motor Vehicles
+319,2022 AUG,114.9,Motor Vehicles
+320,2022 SEP,117.3,Motor Vehicles
+321,2022 OCT,117.4,Motor Vehicles
