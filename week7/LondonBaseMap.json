@@ -1,0 +1,26 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 300,
+  "title": {
+    "text": "London - Borough map",
+    "subtitle": ["London projection"],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "subtitlePadding": 5,
+    "anchor": "middle",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/week7/geoLondonBorough.json",
+    "format": {"property": "features"}
+  },
+  "mark": {
+    "type": "geoshape",
+    "fill": "lightgrey",
+    "stroke": "darkgray",
+    "strokeWidth": 0.5
+  },
+  "encoding": {"tooltip": {"field": "properties.name"}},
+  "config": {}
+}
