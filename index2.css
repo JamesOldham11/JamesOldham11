@@ -101,11 +101,7 @@ h1, h3, p{
 
     
 }
-@media only screen and (max-width: 600px) {
-  .chart {
-    width: 90%;
-  }
-}
+
 
 .abc{
     margin: auto; 
