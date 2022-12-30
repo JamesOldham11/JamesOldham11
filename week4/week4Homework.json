@@ -1,0 +1,20 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Bar chart with text labels. Set domain to make the frame cover the labels.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/week4/week4Homework.csv"
+  },
+  "encoding": {
+    "y": {"field": "Club", "type": "nominal", "sort": ["ascending"]},
+    "x": {"field": "Points", "type": "quantitative"},
+    "color": {"field": "Club", "scale": {"scheme": "category20b"}}
+  },
+  "layer": [
+    {"mark": "bar"},
+    {
+      "mark": {"type": "text", "align": "left", "baseline": "middle", "dx": 3},
+      "encoding": {"text": {"field": "Points", "type": "quantitative"}}
+    }
+  ],
+  "config": {}
+}
