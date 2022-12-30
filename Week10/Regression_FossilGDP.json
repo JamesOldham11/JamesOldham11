@@ -1,0 +1,57 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 300,
+  "data": {
+    "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/Week10/SupervisedRegression%20(1).csv"
+  },
+  "transform": [
+    {"filter": {"field": "GDPperCapita", "range": [2000, 150000]}},
+    {"filter": {"field": "PercentFossil", "range": [1, 95]}}
+  ],
+  "layer": [
+    {
+      "mark": {"type": "point", "filled": true},
+      "encoding": {
+        "x": {"field": "GDPperCapita", "type": "quantitative"},
+        "y": {"field": "PercentFossil", "type": "quantitative"},
+        "tooltip": [
+          {"field": "Country"},
+          {"field": "GDPperCapita", "title": "GDP per Capita", "format": ".1f"},
+          {"field": "PercentFossil", "title": "Fossil Fuel", "format": ".2f"}
+        ]
+      }
+    },
+    {
+      "mark": {"type": "line", "color": "firebrick"},
+      "transform": [{"regression": "PercentFossil", "on": "GDPperCapita"}],
+      "encoding": {
+        "x": {
+          "field": "GDPperCapita",
+          "type": "quantitative",
+          "title": "GDP per Capita"
+        },
+        "y": {
+          "field": "PercentFossil",
+          "type": "quantitative",
+          "title": "% of electricity generation from Fossil Fuels"
+        }
+      }
+    },
+    {
+      "transform": [
+        {"regression": "PercentFossil", "on": "GDPperCapita", "params": true},
+        {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+      ],
+      "mark": {
+        "type": "text",
+        "color": "firebrick",
+        "x": "width",
+        "align": "right",
+        "y": -5
+      },
+      "encoding": {"text": {"type": "nominal", "field": "R2"}}
+    }
+  ],
+  "config": {}
+}
