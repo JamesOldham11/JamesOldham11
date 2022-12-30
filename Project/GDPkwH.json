@@ -1,0 +1,57 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "GDP vs kWh per Capita",
+  "data": {
+    "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/Project/PopGDPEUPC.csv"
+  },
+  "params": [
+    {
+      "name": "year",
+      "value": 1980,
+      "bind": {
+        "input": "range",
+        "min": 1980,
+        "max": 2019,
+        "step": 1,
+        "name": "Year:"
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.Year == year"},
+    {"filter": "datum.GDPperCapita <= 20000"},
+    {"filter": "datum.EnergyUse <=60000"}
+  ],
+  "mark": "point",
+  "encoding": {
+    "x": {
+      "field": "EnergyUse",
+      "type": "quantitative",
+      "scale": {"domain": [0, 60000]},
+      "title": "kWh per Capita"
+    },
+    "y": {
+      "field": "GDPperCapita",
+      "type": "quantitative",
+      "scale": {"domain": [0, 20000]},
+      "title": "GDP per Capita"
+    },
+    "size": {
+      "field": "Population",
+      "type": "quantitative",
+      "scale": {"domain": [0, 1000000000]}
+    },
+    "color": {
+      "field": "Population",
+      "type": "quantitative",
+      "scale": {"domain": [0, 1000000000], "scheme": "yelloworangered"}
+    },
+    "tooltip": [
+      {"field": "Entity", "title": "Country"},
+      {"field": "GDPperCapita", "title": "GDP per Capita", "format": ".1f"},
+      {"field": "EnergyUse", "title": "kWh per Capita", "format": ".1f"},
+      {"field": "Population", "format": ","}
+    ]
+  },
+  "config": {}
+}

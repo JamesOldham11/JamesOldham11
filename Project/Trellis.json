@@ -1,0 +1,18 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/Project/TrellisData.csv"
+  },
+  "mark": "line",
+  "encoding": {
+    "facet": {"field": "Series", "type": "ordinal", "columns": 4},
+    "x": {"field": "Date", "type": "temporal"},
+    "y": {
+      "field": "Value",
+      "type": "quantitative",
+      "scale": {"domain": [50, 300]},
+      "title": "Price Index, 2015 = 100"
+    }
+  },
+  "config": {}
+}
