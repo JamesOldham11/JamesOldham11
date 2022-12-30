@@ -92,7 +92,7 @@ h1, h3, p{
 /* Set the apperance of the class, chart and weeks in portfolio */
 
 @media only screen and (max-width: 850px) {
-  .chart {
+  .abc {
     width: 90%;
   }
 }
