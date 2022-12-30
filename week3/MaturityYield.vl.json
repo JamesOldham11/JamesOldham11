@@ -1,6 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "A simple bar chart with embedded data.",
+  "height": 300,
+  "width": 300,
   "data": {
     "values": [
       {"Maturity": "2022-07-09", "Yield": 2.15436},
