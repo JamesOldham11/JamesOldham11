@@ -6,6 +6,21 @@
 
 <head>
     <title>Richard's Second Example</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Title for the page -->
+    <title>James Oldham Data Science</title>
+
+    <!-- Link to my style sheet -->
+    
+
+    <!--The next three lines allow the Vega embed-->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+    
 
 <!-- Link to my CSS file -->
 <!-- The link needs to point to the CSS file, so it needs to be in the right place -->
@@ -18,5 +33,17 @@
 <h1>Here's my heading</h1>
 <p>And a paragraph.</p>
 
+<div class="chart" id="Chart16"></div>
+
 </body>
+
+<script>
+var myChart16 = "week5/Week5Chart9.json"
+vegaEmbed('#Chart16', myChart16);
+
+</script>
+
+
+
+
 </html>
