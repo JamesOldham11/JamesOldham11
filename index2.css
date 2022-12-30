@@ -91,7 +91,11 @@ h1, h3, p{
 
 /* Set the apperance of the class, chart and weeks in portfolio */
 
-
+@media only screen and (max-width: 850px) {
+  .chart {
+    width: 90%;
+  }
+}
 
 .chart{
     width: auto;
