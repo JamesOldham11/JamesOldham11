@@ -19,7 +19,7 @@
   
     "height": 260,
    
-    "width": 250,
+    "width": 240,
    
     "mark": {"type": "line", "color": "blue"},
    
@@ -41,7 +41,7 @@
         "type": "nominal",
         "scale": {"scheme": "yellowgreenblue"},
         "title": "Source",
-        "legend": {"fillColor": "#FcFdFd"}
+        "legend": {"fillColor": "#FcFdFd", "orient": "right"}
       },
   
   
