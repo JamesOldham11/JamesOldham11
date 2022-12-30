@@ -1,0 +1,62 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Housing, Water and Fuels inflation",
+  "data": {
+    "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/week5/data/data_ONS-D7C3.json",
+    "format": {"type": "json", "property": "months"}
+  },
+  "width": 200,
+  "height": 200,
+
+  "title": {
+    "text": "Communication CPI",
+    "subtitle": ["Source: ONS. Indexed to 2015 = 100"],
+    "anchor": "start"
+  },
+  "params": [
+    {
+      "name": "minYear",
+      "value": 2015,
+      "bind": {
+        "input": "range",
+        "min": 2015,
+        "max": 2023,
+        "step": 1,
+        "name": "Start year:"
+      }
+    },
+    {
+      "name": "maxYear",
+      "value": 2023,
+      "bind": {
+        "input": "range",
+        "min": 2015,
+        "max": 2023,
+        "step": 1,
+        "name": "End year:"
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.year>=minYear"},
+    {"filter": "datum.year<=maxYear"}
+  ],
+  "mark": {"type": "line", "color": "#d44d1d"},
+  "encoding": {
+    "x": {
+      "field": "date",
+      "type": "temporal",
+      "title": null,
+      "axis": {"grid": false}
+    },
+    "y": {
+      "field": "value",
+      "type": "quantitative",
+      "axis": {"grid": false},
+      "scale": {"domain": [80, 140]},
+      "title": "Index, 2015 = 100"
+    },
+    "tooltip": [{"field": "value", "type": "quantitative", "title": "Index"}]
+  },
+  "config": {}
+}
