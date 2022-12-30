@@ -1,0 +1,49 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 600,
+  "height": 300,
+  "view": {"stroke": "transparent"},
+  "title": {
+    "text": "Increase in demand for energy: 2019 compared to 1985",
+    "fontSize": 12,
+    "subtitle": ["Measured in kWh. Source: OurWorldinData", ""],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "middle"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/Project/geoWorldKWH.json",
+    "format": {"property": "features"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.name",
+      "from": {
+        "key": "Entity",
+        "fields": ["Calc"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/Project/EnergyIncrease.csv"
+        }
+      }
+    }
+  ],
+  "projection": {"type": "naturalEarth1"},
+  "mark": "geoshape",
+  "encoding": {
+    "color": {
+      "field": "Calc",
+      "legend": {"title": null, "orient": "right", "direction": "vertical"},
+      "type": "quantitative",
+      "scale": {
+        "scheme": "lightgreyred",
+        "reverse": false,
+        "domain": [-10, 500]
+      }
+    },
+    "tooltip": [
+      {"field": "properties.name", "title": "Country"},
+      {"field": "Calc", "title": "Increase", "format": ",d"}
+    ]
+  },
+  "config": {}
+}
