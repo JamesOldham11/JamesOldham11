@@ -1,18 +1,23 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 150,
+  "height": 150,
   "data": {
     "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/Project/TrellisData.csv"
   },
   "mark": "line",
   "encoding": {
-    "facet": {"field": "Series", "type": "ordinal", "columns": 4},
+    "facet": {"field": "Series", "type": "ordinal", "columns": 4, "title": "Price Index (2015 = 100) of Gas/Electricity for Domestic Market vs other select goods"},
     "x": {"field": "Date", "type": "temporal"},
     "y": {
       "field": "Value",
       "type": "quantitative",
       "scale": {"domain": [50, 300]},
       "title": "Price Index, 2015 = 100"
-    }
+    },
+    "tooltip": [
+      {"field": "Value", "title": "Price Index"}
+    ]
   },
   "config": {}
 }
