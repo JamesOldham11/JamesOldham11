@@ -1,7 +1,3 @@
-/* Richard Davies, Data Science for Economists */
-
-/* This is my second proper css file */
-
 
 /* Import a font */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
@@ -10,15 +6,7 @@
 /* Set the background color for my page: */
 body{
     background-color: rgb(178, 202, 178);
-    max-width: 90%;
-    margin: auto;
  
-}
-
-@media (max-width: 800px) {
-  .chart {
-    max-width: 400px;
-  }
 }
 /* Start with white and bring down toward grey */
 
@@ -97,29 +85,22 @@ h1, h3, p{
     cursor: pointer;
 }
 
-
 /* Set the apperance of the class, chart and weeks in portfolio */
 
 
 
-.wrap{
-    margin: auto; 
-    max-width: 100%;
-    background-color:rgba(162, 220, 163, 0.5);
-    border: solid;
-    border-radius: 5px;
-    border-color:rgba(48, 38, 38,0.75);
-    margin-bottom:20px;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+.chart{
     width: auto;
-    height: auto; 
+    height: auto;
+    margin-bottom:20px;
+    background-color: white;
+
+    
 }
 
 .abc{
     margin: auto; 
-    max-width: 100%;
+    max-width: 850px;
     background-color:rgba(162, 220, 163, 0.5);
     border: solid;
     border-radius: 5px;
@@ -132,7 +113,131 @@ h1, h3, p{
     height: auto;
 }
 
+.Week1{
+    margin: auto; 
+    max-width: 850px;
+    background-color:rgba(162, 220, 163, 0.5);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
+    margin-bottom:20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
 
+.Week2{
+    margin: auto; 
+    max-width: 850px;
+    background-color:rgba(162, 220, 163, 0.5);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
+    margin-bottom:20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
 
-
-
+.Week3{
+    margin: auto; 
+    max-width: 850px;
+    background-color:rgba(162, 220, 163, 0.5);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
+    margin-bottom:20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.Week4{
+    margin: auto; 
+    max-width: 850px;
+    background-color:rgba(162, 220, 163, 0.5);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
+    margin-bottom:20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.Week5{
+    margin: auto; 
+    max-width: 850px;
+    background-color:rgba(162, 220, 163, 0.5);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
+    margin-bottom:20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.Week7{
+    margin: auto; 
+    max-width: 850px;
+    background-color:rgba(162, 220, 163, 0.5);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
+    margin-bottom:20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.Week8{
+    margin: auto; 
+    max-width: 850px;
+    background-color:rgba(162, 220, 163, 0.5);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
+    margin-bottom:20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.Week9{
+    margin: auto; 
+    max-width: 850px;
+    background-color:rgba(162, 220, 163, 0.5);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
+    margin-bottom:20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.Week10{
+    margin: auto; 
+    max-width: 850px;
+    background-color:rgba(162, 220, 163, 0.5);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
+    margin-bottom:20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
