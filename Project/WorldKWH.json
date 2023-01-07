@@ -1,7 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 400,
-  "height": 350,
+  "width": 350,
+  "height": 300,
+  "background": "rgb(170,200,180)",
   "view": {"stroke": "transparent"},
   "title": {
     "text": "Increase in demand for energy: 2019 compared to 1985",
