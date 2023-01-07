@@ -1,7 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 400,
+  "width": 350,
   "height": 300,
+  "background": "rgb(170,200,180)",
   "data": {
     "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/Week10/SupervisedRegression%20(1).csv"
   },
