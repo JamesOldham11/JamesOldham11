@@ -17,9 +17,9 @@
      
     },
   
-    "height": 260,
+    "height": 200,
    
-    "width": 240,
+    "width": 150,
    
     "mark": {"type": "line", "color": "blue"},
    
