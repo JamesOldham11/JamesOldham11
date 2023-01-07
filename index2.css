@@ -14,6 +14,12 @@ body{
     margin: auto;
  
 }
+
+@media (max-width: 800px) {
+  .chart {
+    max-width: 400px;
+  }
+}
 /* Start with white and bring down toward grey */
 
 /* Choose the appearance of the tags, h1, h3 and p: */
