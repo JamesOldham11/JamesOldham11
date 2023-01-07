@@ -91,11 +91,7 @@ h1, h3, p{
 
 /* Set the apperance of the class, chart and weeks in portfolio */
 
-@media only screen and (max-width: 850px) {
-  .abc {
-    width: 90%;
-  }
-}
+
 
 .chart{
     width: auto;
@@ -109,7 +105,7 @@ h1, h3, p{
 
 .abc{
     margin: auto; 
-    max-width: 850px;
+    max-width: 100%;
     background-color:rgba(162, 220, 163, 0.5);
     border: solid;
     border-radius: 5px;
