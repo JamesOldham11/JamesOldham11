@@ -3,6 +3,7 @@
   "description": "Stock prices of 5 Tech Companies over Time.",
   "width": 300,
   "height": 200,
+  "background": "rgb(170,200,180)",
   "data": {
     "values": [
       {
