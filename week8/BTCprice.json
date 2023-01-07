@@ -4,6 +4,9 @@
   "data": {
     "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/week8/BTC-USD.csv"
   },
+  "width": 350,
+  "height": 300,
+  "background": "rgb(170,200,180)",
   "mark": "line",
   "encoding": {
     "x": {"field": "Date", "type": "temporal", "axis": {"grid": false}},
