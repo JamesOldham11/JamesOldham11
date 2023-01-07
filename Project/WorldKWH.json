@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 350,
+  "width": 300,
   "height": 300,
   "background": "rgb(170,200,180)",
   "view": {"stroke": "transparent"},
@@ -33,7 +33,7 @@
   "encoding": {
     "color": {
       "field": "Calc",
-      "legend": {"title": null, "orient": "right", "direction": "vertical"},
+      "legend": {"title": "% Increase", "orient": "bottom", "direction": "horizontal", "offset": -40, "titleAlign": "center"},
       "type": "quantitative",
       "scale": {
         "scheme": "lightgreyred",
@@ -46,5 +46,5 @@
       {"field": "Calc", "title": "Increase", "format": ",d"}
     ]
   },
-  "config": {}
+  "config": {"legend":{"gradientHorizontalMaxLength": 350}}
 }
