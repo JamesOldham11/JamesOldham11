@@ -1106,5 +1106,6 @@
     },
     "color": {"field": "Country", "scale": {"scheme": "category20b"}}
   },
-  "config": {}
+  "config": {"legend": {
+  "orient": "top"}}
 }
