@@ -5,7 +5,7 @@
 
 /* Set the background color for my page: */
 body{
-    background-color: rgb(178, 202, 178);
+    background-color: rgb(170, 200, 180);
  
 }
 
@@ -91,10 +91,6 @@ h1, h3, p{
 .abc{
     margin: auto; 
     max-width: 850px;
-    background-color:rgb(170,200,180);
-    border: solid;
-    border-radius: 5px;
-    border-color:rgba(48, 38, 38,0.75);
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -107,10 +103,6 @@ h1, h3, p{
 .Week1{
     margin: auto; 
     max-width: 850px;
-    background-color:rgb(170,200,180);
-    border: solid;
-    border-radius: 5px;
-    border-color:rgba(48, 38, 38,0.75);
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -122,10 +114,6 @@ h1, h3, p{
 .Week2{
     margin: auto; 
     max-width: 850px;
-    background-color:rgb(170,200,180);
-    border: solid;
-    border-radius: 5px;
-    border-color:rgba(48, 38, 38,0.75);
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -137,10 +125,6 @@ h1, h3, p{
 .Week3{
     margin: auto; 
     max-width: 850px;
-    background-color:rgb(170,200,180);
-    border: solid;
-    border-radius: 5px;
-    border-color:rgba(48, 38, 38,0.75);
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -151,10 +135,6 @@ h1, h3, p{
 .Week4{
     margin: auto; 
     max-width: 850px;
-    background-color:rgb(170,200,180);
-    border: solid;
-    border-radius: 5px;
-    border-color:rgba(48, 38, 38,0.75);
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -165,10 +145,6 @@ h1, h3, p{
 .Week5{
     margin: auto; 
     max-width: 850px;
-    background-color:rgb(170,200,180);
-    border: solid;
-    border-radius: 5px;
-    border-color:rgba(48, 38, 38,0.75);
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -179,10 +155,6 @@ h1, h3, p{
 .Week7{
     margin: auto; 
     max-width: 850px;
-    background-color:rgb(170,200,180);
-    border: solid;
-    border-radius: 5px;
-    border-color:rgba(48, 38, 38,0.75);
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -193,10 +165,6 @@ h1, h3, p{
 .Week8{
     margin: auto; 
     max-width: 850px;
-    background-color:rgb(170,200,180);
-    border: solid;
-    border-radius: 5px;
-    border-color:rgba(48, 38, 38,0.75);
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -207,10 +175,6 @@ h1, h3, p{
 .Week9{
     margin: auto; 
     max-width: 850px;
-    background-color:rgb(170,200,180);
-    border: solid;
-    border-radius: 5px;
-    border-color:rgba(48, 38, 38,0.75);
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -221,10 +185,6 @@ h1, h3, p{
 .Week10{
     margin: auto; 
     max-width: 850px;
-    background-color:rgb(170,200,180);
-    border: solid;
-    border-radius: 5px;
-    border-color:rgba(48, 38, 38,0.75);
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
