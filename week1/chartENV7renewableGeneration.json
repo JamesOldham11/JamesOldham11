@@ -28,7 +28,8 @@
     ],  
     
     "height": 300,
-    "width": 270,
+    "width": 300,
+    "background": "rgb(170,200,180)",
     
     "mark": {
       "type": "bar",
