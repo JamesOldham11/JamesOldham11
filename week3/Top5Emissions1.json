@@ -1107,5 +1107,5 @@
     "color": {"field": "Country", "scale": {"scheme": "category20b"}}
   },
   "config": {"legend": {
-  "orient": "top"}}
+  "orient": "bottom"}}
 }
