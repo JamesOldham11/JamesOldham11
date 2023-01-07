@@ -10,6 +10,8 @@
 /* Set the background color for my page: */
 body{
     background-color: rgb(178, 202, 178);
+    max-width: 90%;
+    margin: auto;
  
 }
 /* Start with white and bring down toward grey */
@@ -94,11 +96,6 @@ h1, h3, p{
  
  }
 
-body{
-    background-color:rgb(250, 243, 250);
-    max-width: 90%;
-    margin: auto;
- }
 
 /* Set the apperance of the class, chart and weeks in portfolio */
 
@@ -114,16 +111,14 @@ body{
 }
 
  .containerx {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    gap: 30px 30px;
-    border: 1.5px solid purple;
-    margin-top: 30px;
-    border-style: solid;
-    border-color:purple;
-    padding: 30px;
-    border-radius: 25px;
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    border-radius: 5px;
+    padding: 20px;
+    display: inline-block;
   }
 
 
