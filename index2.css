@@ -105,29 +105,8 @@ h1, h3, p{
     width: auto;
     height: auto;
     margin-bottom:20px;
-    background-color: white;
-
-    
+    background-color: white;   
 }
-
- .containerx {
-    align-content: center;
-    display: flex;
-    justify-content: center;
-    flex-flow: row wrap;
-    position: relative;
-    left: 0px;
-    width: 100%;
-    text-align: justify;
-    border: 1.5px solid purple;
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    padding: 5px;
-    right: 0px;
-    margin-top: 5px;
-  }
-
 
 .abc{
     margin: auto; 
@@ -273,33 +252,5 @@ h1, h3, p{
     height: auto;
 }
 
-.grid-container {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
-  grid-gap: 10px;
-  justify-content: center !important;
-  vertical-align: bottom;
-  text-align: center !important;
-  align-content: center;
-  margin:auto;
-  max-width: 400px;
-  margin-bottom: 10px !important;
-  margin-top: 10px !important;
-  font-size: xx-small;
-  letter-spacing: 0.1px;
-}
 
-.grid-item {
-  background-color: white;
-  padding: 10px;
-  text-align: center; 
-  border-width: .2em;
-  height: 100%; /* can do %s here too! */
-  width: 100%;
-  display: inline-block !important;
-  min-width: 280px;
-  font-size: 10px;
-  margin: 0 auto;
-}
 
