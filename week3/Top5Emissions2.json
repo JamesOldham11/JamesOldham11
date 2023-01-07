@@ -1103,5 +1103,6 @@
     "y": {"field": "Annual CO2 Emissions", "type": "quantitative"},
     "color": {"field": "Country", "type": "nominal"}
   },
-  "config": {}
+  "config": {"legend":{
+  "orient": "bottom"}}
 }
