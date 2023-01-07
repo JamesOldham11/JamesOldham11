@@ -1,7 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 90,
+  "width": 75,
   "height": 90,
+  "background": "rgb(170,200,180)",
   "data": {
     "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/Project/TrellisData.csv"
   },
