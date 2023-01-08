@@ -1,7 +1,7 @@
 {
   "width": 290,
   "height": 300,
-  "background": "rgb(170,200,180)"
+  "background": "rgb(170,200,180)",
   "data": {
     "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/Project/SolarCostDemand1.csv"
   },
