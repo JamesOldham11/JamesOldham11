@@ -5,7 +5,7 @@
 
 /* Set the background color for my page: */
 body{
-    background-color: rgb(170, 200, 180);
+    background-color: rgb(178, 200, 182);
  
 }
 
@@ -87,10 +87,15 @@ h1, h3, p{
 
 /* Set the apperance of the class, chart and weeks in portfolio */
 
+.container{
+    max-width: 100%;
+    margin: 0 auto;
+}
+
 
 .abc{
     margin: auto; 
-    max-width: 80%;
+    max-width: 900px;
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -98,12 +103,17 @@ h1, h3, p{
     width: 100%;
     height: 100%;
     min-width: 350px;
+    background-color:rgb(170,200,180);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
+
 
 }
 
 .Week1{
     margin: auto; 
-    max-width: 80%;
+    max-width: 900px;
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -111,11 +121,15 @@ h1, h3, p{
     width: auto;
     height: auto;
     min-width: 350px;
+    background-color:rgb(170,200,180);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
 }
 
 .Week2{
     margin: auto; 
-    max-width: 80%;
+    max-width: 900px;
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -123,11 +137,15 @@ h1, h3, p{
     width: auto;
     height: auto;
     min-width: 350px;
+    background-color:rgb(170,200,180);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
 }
 
 .Week3{
     margin: auto; 
-    max-width: 80%;
+    max-width: 900px;
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -135,10 +153,14 @@ h1, h3, p{
     width: auto;
     height: auto;
     min-width: 350px;
+    background-color:rgb(170,200,180);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
 }
 .Week4{
     margin: auto; 
-    max-width: 80%;
+    max-width: 900px;
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -146,10 +168,14 @@ h1, h3, p{
     width: auto;
     height: auto;
     min-width: 350px;
+    background-color:rgb(170,200,180);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
 }
 .Week5{
     margin: auto; 
-    max-width: 80%;
+    max-width: 900px;
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -157,10 +183,14 @@ h1, h3, p{
     width: auto;
     height: auto;
     min-width: 350px;
+    background-color:rgb(170,200,180);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
 }
 .Week7{
     margin: auto; 
-    max-width: 80%;
+    max-width: 900px;
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -168,10 +198,14 @@ h1, h3, p{
     width: auto;
     height: auto;
     min-width: 350px;
+    background-color:rgb(170,200,180);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
 }
 .Week8{
     margin: auto; 
-    max-width: 80%;
+    max-width: 900px;
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -179,10 +213,14 @@ h1, h3, p{
     width: auto;
     height: auto;
     min-width: 350px;
+    background-color:rgb(170,200,180);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
 }
 .Week9{
     margin: auto; 
-    max-width: 80%;
+    max-width: 900px;
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -190,10 +228,14 @@ h1, h3, p{
     width: auto;
     height: auto;
     min-width: 350px;
+    background-color:rgb(170,200,180);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
 }
 .Week10{
     margin: auto; 
-    max-width: 80%;
+    max-width: 900px;
     margin-bottom:20px;
     align-items: center;
     justify-content: center;
@@ -201,4 +243,8 @@ h1, h3, p{
     width: auto;
     height: auto;
     min-width: 350px;
+    background-color:rgb(170,200,180);
+    border: solid;
+    border-radius: 5px;
+    border-color:rgba(48, 38, 38,0.75);
 }
