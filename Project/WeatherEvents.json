@@ -6,7 +6,6 @@
   "mark": {"type": "bar"},
   "width": 290,
   "height": 300,
-  "background": null,
   "encoding": {
     "x": {"field": "Year", "type": "temporal", "title": "Decade"},
     "y": {
