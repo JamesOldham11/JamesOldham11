@@ -8,7 +8,7 @@
     "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/week4/week4Homework.csv"
   },
   "encoding": {
-    "y": {"field": "rank", "type": "nominal", "sort": ["ascending"]},
+    "y": {"field": "rank", "type": "nominal", "sort": ["ascending"], "title": "Rank"},
     "x": {"field": "Points", "type": "quantitative"},
     "color": {"field": "Club", "scale": {"scheme": "category20b"},
              "legend": null},
