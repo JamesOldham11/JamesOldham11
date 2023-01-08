@@ -46,7 +46,7 @@
   "encoding": {
     "color": {
       "field": "PricePercent",
-      "legend": {"title": null, "orient": "right", "direction": "vertical", "gradientLength": 300, "tickCount": 5},
+      "legend": {"title": null, "orient": "right", "direction": "vertical", "gradientLength": 300, "tickCount": 5, "orient": "top"},
       "type": "quantitative",
       "scale": {"scheme": "lightgreyred", "reverse": false, "domain": [0,500]}
     },
