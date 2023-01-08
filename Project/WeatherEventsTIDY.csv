@@ -51,16 +51,16 @@
 49,2000,Wildfires,3.164107
 50,2010,Wildfires,14.43235
 51,2020,Wildfires,5.080694
-52,1900,ExtremeTemperature,0.0
-53,1910,ExtremeTemperature,0.0
-54,1920,ExtremeTemperature,0.0
-55,1930,ExtremeTemperature,0.0
-56,1940,ExtremeTemperature,0.0
-57,1950,ExtremeTemperature,0.0
-58,1960,ExtremeTemperature,0.0
-59,1970,ExtremeTemperature,0.0
-60,1980,ExtremeTemperature,0.07861071
-61,1990,ExtremeTemperature,12.610666
-62,2000,ExtremeTemperature,122.91418
-63,2010,ExtremeTemperature,14.468164
-64,2020,ExtremeTemperature,0.20005286
+52,1900,Extreme Temperature,0.0
+53,1910,Extreme Temperature,0.0
+54,1920,Extreme Temperature,0.0
+55,1930,Extreme Temperature,0.0
+56,1940,Extreme Temperature,0.0
+57,1950,Extreme Temperature,0.0
+58,1960,Extreme Temperature,0.0
+59,1970,Extreme Temperature,0.0
+60,1980,Extreme Temperature,0.07861071
+61,1990,Extreme Temperature,12.610666
+62,2000,Extreme Temperature,122.91418
+63,2010,Extreme Temperature,14.468164
+64,2020,Extreme Temperature,0.20005286
