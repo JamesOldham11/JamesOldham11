@@ -113,10 +113,11 @@ h1, h3, p{
     margin: 0 auto;
 }
 
-.ProjHeader{
+.PageHeader{
     margin: auto; 
     max-width: 900px;
     margin-bottom:20px;
+    margin-top:20px;
     align-items: center;
     justify-content: center;
     text-align: center;
