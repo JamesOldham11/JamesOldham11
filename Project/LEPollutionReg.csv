@@ -1,0 +1,175 @@
+,Dim1,FactValueNumeric,Code,Location,LifeExpectancy
+0,Cities,10.01,KEN,Kenya,62.943
+1,Cities,10.06,GBR,United Kingdom of Great Britain and Northern Ireland,81.2048780487805
+2,Cities,10.19,RUS,Russian Federation,73.0839024390244
+3,Cities,10.19,ESP,Spain,83.8317073170732
+4,Cities,10.38,HTI,Haiti,64.255
+5,Cities,10.39,TTO,Trinidad and Tobago,74.228
+6,Cities,10.45,BLZ,Belize,73.931
+7,Cities,10.7,DNK,Denmark,81.4512195121951
+8,Cities,11.07,ARG,Argentina,77.284
+9,Cities,11.15,NLD,Netherlands,82.1121951219512
+10,Cities,11.32,JPN,Japan,84.3563414634146
+11,Cities,11.75,BRA,Brazil,75.338
+12,Cities,11.83,LTU,Lithuania,76.2829268292683
+13,Cities,11.85,PAN,Panama,77.81
+14,Cities,11.92,DEU,Germany,81.2926829268293
+15,Cities,12.01,GUY,Guyana,69.124
+16,Cities,12.03,FRA,France,82.8268292682927
+17,Cities,12.3,BEL,Belgium,81.9951219512195
+18,Cities,12.34,MDV,Maldives,80.116
+19,Cities,13.08,MLT,Malta,82.8585365853659
+20,Cities,13.21,SUR,Suriname,72.242
+21,Cities,13.33,SGP,Singapore,83.5951219512195
+22,Cities,13.33,AUT,Austria,81.8951219512195
+23,Cities,13.5,PRY,Paraguay,73.621
+24,Cities,13.63,MDA,Republic of Moldova,70.935
+25,Cities,13.92,MAR,Morocco,74.27
+26,Cities,14.04,NAM,Namibia,63.075
+27,Cities,14.61,ROU,Romania,75.6073170731707
+28,Cities,14.71,COM,Comoros,64.068
+29,Cities,14.78,BWA,Botswana,65.464
+30,Cities,14.92,SOM,Somalia,57.078
+31,Cities,15.01,ZWE,Zimbabwe,61.292
+32,Cities,15.03,CZE,Czechia,79.2292682926829
+33,Cities,15.2,UKR,Ukraine,71.8273170731707
+34,Cities,15.22,HRV,Croatia,78.4243902439025
+35,Cities,15.46,CRI,Costa Rica,79.427
+36,Cities,15.55,ITA,Italy,83.4975609756098
+37,Cities,15.64,LVA,Latvia,75.3878048780488
+38,Cities,15.93,TZA,United Republic of Tanzania,66.989
+39,Cities,15.94,SVN,Slovenia,81.5292682926829
+40,Cities,15.97,COL,Colombia,76.752
+41,Cities,16.07,HUN,Hungary,76.3195121951219
+42,Cities,16.16,GRC,Greece,81.6390243902439
+43,Cities,16.29,CYP,Cyprus,81.397
+44,Cities,16.35,SWZ,Eswatini,60.549
+45,Cities,16.64,SVK,Slovakia,77.6658536585366
+46,Cities,16.7,VEN,Venezuela (Bolivarian Republic of),72.161
+47,Cities,16.7,ALB,Albania,79.282
+48,Cities,16.91,BTN,Bhutan,71.391
+49,Cities,17.07,NIC,Nicaragua,74.054
+50,Cities,17.31,ECU,Ecuador,77.297
+51,Cities,17.51,BLR,Belarus,74.2268292682927
+52,Cities,17.6,JAM,Jamaica,71.767
+53,Cities,18.3,MNE,Montenegro,76.6829268292683
+54,Cities,18.52,MOZ,Mozambique,61.166
+55,Cities,18.63,BGR,Bulgaria,75.1121951219512
+56,Cities,18.71,CUB,Cuba,77.611
+57,Cities,19.04,MEX,Mexico,74.202
+58,Cities,19.43,ZMB,Zambia,62.793
+59,Cities,19.75,HND,Honduras,72.881
+60,Cities,19.8,KHM,Cambodia,70.692
+61,Cities,20.36,POL,Poland,77.9048780487805
+62,Cities,20.41,LSO,Lesotho,54.173
+63,Cities,20.42,ISR,Israel,82.8048780487805
+64,Cities,20.65,SSD,South Sudan,55.912
+65,Cities,20.82,MWI,Malawi,64.119
+66,Cities,20.89,MDG,Madagascar,65.882
+67,Cities,21.04,DJI,Djibouti,63.085
+68,Cities,21.29,IDN,Indonesia,70.518
+69,Cities,21.66,GEO,Georgia,73.47
+70,Cities,21.91,SRB,Serbia,75.9365853658537
+71,Cities,22.26,TLS,Timor-Leste,68.268
+72,Cities,22.63,CHL,Chile,80.326
+73,Cities,23.28,VNM,Viet Nam,74.093
+74,Cities,23.31,GTM,Guatemala,73.129
+75,Cities,23.34,TUR,Türkiye,77.832
+76,Cities,23.5,ETH,Ethiopia,65.838
+77,Cities,23.75,DZA,Algeria,76.474
+78,Cities,23.78,ZAF,South Africa,66.175
+79,Cities,23.84,SLV,El Salvador,72.559
+80,Cities,24.22,KOR,Republic of Korea,83.2268292682927
+81,Cities,24.42,SDN,Sudan,65.876
+82,Cities,24.61,LBN,Lebanon,79.236
+83,Cities,24.63,ERI,Eritrea,67.3
+84,Cities,24.87,LAO,Lao People's Democratic Republic,68.138
+85,Cities,25.26,LKA,Sri Lanka,76.008
+86,Cities,25.32,MYS,Malaysia,75.76
+87,Cities,25.39,PHL,Philippines,71.865
+88,Cities,26.02,TKM,Turkmenistan,69.002
+89,Cities,26.28,JOR,Jordan,76.044
+90,Cities,26.34,THA,Thailand,78.975
+91,Cities,26.57,SYR,Syrian Arab Republic,71.822
+92,Cities,27.15,AZE,Azerbaijan,73.102
+93,Cities,27.43,BOL,Bolivia (Plurinational State of),67.841
+94,Cities,27.85,MMR,Myanmar,66.61
+95,Cities,28.4,LBY,Libya,72.463
+96,Cities,28.68,GNQ,Equatorial Guinea,61.644
+97,Cities,28.72,TUN,Tunisia,75.993
+98,Cities,29.04,BDI,Burundi,62.351
+99,Cities,32.53,BIH,Bosnia and Herzegovina,77.241
+100,Cities,32.61,BEN,Benin,60.454
+101,Cities,32.7,PER,Peru,76.156
+102,Cities,32.75,MKD,The former Yugoslav Republic of Macedonia,76.6024390243903
+103,Cities,32.93,PSE,Occupied Palestinian territory,75.241
+104,Cities,33.14,CPV,Cabo Verde,76.004
+105,Cities,33.19,AGO,Angola,62.448
+106,Cities,33.96,GAB,Gabon,66.603
+107,Cities,34.65,CAF,Central African Republic,55.025
+108,Cities,36.41,IRN,Iran (Islamic Republic of),76.103
+109,Cities,36.46,STP,Sao Tome and Principe,68.523
+110,Cities,36.49,COG,Congo,62.747
+111,Cities,36.75,NPL,Nepal,69.558
+112,Cities,36.91,OMN,Oman,78.002
+113,Cities,38.18,RWA,Rwanda,66.437
+114,Cities,38.26,ARM,Armenia,75.439
+115,Cities,38.39,KAZ,Kazakhstan,73.18
+116,Cities,38.77,KGZ,Kyrgyzstan,71.6
+117,Cities,38.93,ARE,United Arab Emirates,79.726
+118,Cities,39.01,UGA,Uganda,62.991
+119,Cities,39.12,CHN,China,77.968
+120,Cities,39.29,COD,Democratic Republic of the Congo,60.276
+121,Cities,39.42,TGO,Togo,60.901
+122,Cities,4.86,BHS,Bahamas,71.205
+123,Cities,41.88,LBR,Liberia,61.104
+124,Cities,42.65,GNB,Guinea-Bissau,60.882
+125,Cities,43.5,GMB,Gambia,63.755
+126,Cities,43.87,YEM,Yemen,65.092
+127,Cities,44.35,SEN,Senegal,68.526
+128,Cities,45.36,GIN,Guinea,59.72
+129,Cities,45.39,PRK,Democratic People's Republic of Korea,73.198
+130,Cities,45.42,SLE,Sierra Leone,60.255
+131,Cities,45.44,IRQ,Iraq,71.576
+132,Cities,46.63,UZB,Uzbekistan,71.344
+133,Cities,48.51,MLI,Mali,59.664
+134,Cities,50.12,BGD,Bangladesh,72.806
+135,Cities,51.29,BFA,Burkina Faso,60.039
+136,Cities,51.59,BHR,Bahrain,80.019
+137,Cities,53.18,PAK,Pakistan,66.756
+138,Cities,54.06,CIV,Côte d’Ivoire,59.319
+139,Cities,54.56,NGA,Nigeria,52.91
+140,Cities,54.63,GHA,Ghana,64.74
+141,Cities,54.7,MRT,Mauritania,65.687
+142,Cities,55.57,IND,India,70.91
+143,Cities,58.21,MNG,Mongolia,71.822
+144,Cities,59.53,NER,Niger,62.897
+145,Cities,6.07,ISL,Iceland,83.1634146341463
+146,Cities,6.4,FIN,Finland,81.9829268292683
+147,Cities,6.67,EST,Estonia,78.6463414634147
+148,Cities,6.71,SWE,Sweden,83.109756097561
+149,Cities,6.87,CAN,Canada,82.0487804878049
+150,Cities,6.96,BRN,Brunei Darussalam,74.748
+151,Cities,60.7,TCD,Chad,53.259
+152,Cities,60.92,SAU,Saudi Arabia,77.304
+153,Cities,60.94,QAT,Qatar,80.99
+154,Cities,62.02,CMR,Cameroon,61.584
+155,Cities,62.65,TJK,Tajikistan,70.867
+156,Cities,66.42,EGY,Egypt,71.358
+157,Cities,67.67,KWT,Kuwait,79.685
+158,Cities,7.49,NOR,Norway,82.9585365853659
+159,Cities,7.57,USA,United States of America,78.7878048780488
+160,Cities,7.98,DOM,Dominican Republic,73.577
+161,Cities,7.98,PRT,Portugal,81.6756097560976
+162,Cities,8.46,URY,Uruguay,77.508
+163,Cities,8.54,NZL,New Zealand,81.7073170731707
+164,Cities,8.66,IRL,Ireland,82.7024390243903
+165,Cities,8.74,LUX,Luxembourg,82.6390243902439
+166,Cities,8.78,SLB,Solomon Islands,70.382
+167,Cities,84.04,AFG,Afghanistan,63.565
+168,Cities,9.08,AUS,Australia,82.9
+169,Cities,9.21,MCO,Monaco,
+170,Cities,9.67,PNG,Papua New Guinea,65.474
+171,Cities,9.83,BRB,Barbados,77.257
+172,Cities,9.87,CHE,Switzerland,83.9048780487805
+173,Cities,9.89,MUS,Mauritius,74.2358536585366
