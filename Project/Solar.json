@@ -1,6 +1,7 @@
 {
   "width": 290,
   "height": 300,
+  "background": "rgb(170,200,180)"
   "data": {
     "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/Project/SolarCostDemand1.csv"
   },
@@ -18,7 +19,7 @@
       }
     },
     {
-      "mark": {"type": "bar", "width": {"band": 0.5}, "opacity": 0.5},
+      "mark": {"type": "bar", "opacity": 0.5},
       "encoding": {
         "y": {
           "aggregate": "average",
