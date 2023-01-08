@@ -12,7 +12,7 @@ body{
 
 /* Choose the appearance of the tags, h1, h3 and p: */
 h1, h3, p{
-    color:rgb(247, 220, 180);
+    color:black;
     font-family: 'Roboto', sans-serif;
     text-align: center;
 }
