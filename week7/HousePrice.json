@@ -1,11 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 350,
+  "width": 300,
   "height": 300,
   "background": "rgb(170,200,180)",
   "title": {
-    "text": "London - Borough map",
-    "subtitle": ["London projection"],
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 10,
     "subtitlePadding": 5,
@@ -46,7 +44,7 @@
   "encoding": {
     "color": {
       "field": "PricePercent",
-      "legend": {"title": null, "orient": "right", "direction": "vertical", "gradientLength": 300, "tickCount": 5, "orient": "top"},
+      "legend": {"title": null, "orient": "right", "direction": "vertical", "gradientLength": 300, "tickCount": 5, "orient": "top", "direction": "horizontal"},
       "type": "quantitative",
       "scale": {"scheme": "lightgreyred", "reverse": false, "domain": [0,500]}
     },
