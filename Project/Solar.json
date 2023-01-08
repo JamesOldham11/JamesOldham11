@@ -2,7 +2,7 @@
   "width": 290,
   "height": 300,
   "data": {
-    "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/Project/SolarCostDemand.csv"
+    "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/Project/SolarCostDemand1.csv"
   },
   "encoding": {"x": {"type": "temporal", "field": "Year"}},
   "layer": [
