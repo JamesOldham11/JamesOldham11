@@ -3,7 +3,7 @@
   "description": "Stock prices of 5 Tech Companies over Time.",
   "width": 300,
   "height": 200,
-  "background": "rgb(170,200,180)",
+  "background": null,
   "data": {
     "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/week3/Top5Emissions.csv"
    
