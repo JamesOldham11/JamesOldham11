@@ -1,0 +1,36 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/Project/WeatherEventsTIDY.csv"
+  },
+  "mark": {"type": "bar", "width": {"band": 0.7}},
+  "width": 290,
+  "height": 300,
+  "background": null,
+  "encoding": {
+    "x": {"field": "Year", "type": "temporal", "title": "Decade"},
+    "y": {
+      "field": "Affected",
+      "type": "quantitative",
+      "title": "Affected per 100,000"
+    },
+    "tooltip": {"field": "Affected", "format": ".1f"},
+    "color": {
+      "field": "Event",
+      "type": "nominal",
+      "legend": {"orient": "bottom", "columns": 2},
+      "scale": {
+        "domain": [
+          "Drought",
+          "Wildfires",
+          "Extreme Temperature",
+          "Storms",
+          "Floods"
+        ],
+        "range": ["#b33e3e", "#f08c0a", "#e6a640", "#5cafdb", "#aec7e8"]
+      },
+      "title": "Weather type"
+    }
+  },
+  "config": {}
+}
