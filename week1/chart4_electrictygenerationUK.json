@@ -20,7 +20,7 @@
     "height": 130,
    
     "width": 130,
-    "background": "rgb(170,200,180)",
+    "background": null,
    
     "mark": {"type": "line", "color": "blue"},
    
