@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "height": 300,
   "width": 290,
-  "background": "rgb(170,200,180)",
+  "background": null,
   "title": "GDP vs kWh per Capita", 
     
   "data": {
