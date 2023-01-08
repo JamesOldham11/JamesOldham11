@@ -42,7 +42,7 @@
         "type": "nominal",
         "scale": {"scheme": "yellowgreenblue"},
         "title": "Source",
-        "legend": {"fillColor": "#FcFdFd", "orient": "right"}
+        "legend": {"orient": "bottom"}
       },
   
   
