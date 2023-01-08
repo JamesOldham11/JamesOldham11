@@ -6,7 +6,7 @@
   },
   "width": 290,
   "height": 300,
-  "background": "rgb(170,200,180)",
+  "background": null,
   "mark": "line",
   "encoding": {
     "x": {"field": "Date", "type": "temporal", "axis": {"grid": false}},
