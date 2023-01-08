@@ -3,7 +3,7 @@
   "data": {
     "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/Project/WeatherEventsTIDY.csv"
   },
-  "mark": {"type": "bar", "width": {"band": 0.7}},
+  "mark": {"type": "bar"},
   "width": 290,
   "height": 300,
   "background": null,
