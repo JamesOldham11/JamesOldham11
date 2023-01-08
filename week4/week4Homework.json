@@ -11,7 +11,7 @@
     "y": {"field": "Rank", "type": "nominal", "sort": ["ascending"]},
     "x": {"field": "Points", "type": "quantitative"},
     "color": {"field": "Club", "scale": {"scheme": "category20b"},
-             "legend": null}
+             "legend": null},
     "tooltip": [{"field": "Club"}]
   },
   "layer": [
