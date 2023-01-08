@@ -40,13 +40,11 @@
             <h3>Food Emissions</h3>
             <p>The first chart shows CO2 emissions per kg of food</p>
             <div class="chart" id="Chart1"></div>
-            
 
 
             <h3>Renewable energy capacity</h3>
-            <div class="chart" id="Chart2"> </div>
             <p>My second chart looks at the capacity of renewable electricity generation over time in the devolved UK nations</p>
-            
+            <div class="chart" id="Chart2"> </div>
         </div>
 
         <div class="Week2">
@@ -54,11 +52,10 @@
             <h2>Week 2 Homework</h2>
             <p>Week 2 Homework</p>
             <div class="chart" id="Chart3"></div>
-            <div class="chart" id="Chart4"></div>
 
             <h3>Adjusted</h3>
             <p>paragraph</p>
-            
+            <div class="chart" id="Chart4"></div>
         </div>
 
         <div class="Week3">
@@ -66,8 +63,8 @@
             <h2>Week 3 Homework</h2>
             <p>Week 3 Homework</p>
             <div class="chart" id="Chart5"></div>
+            <h3>Graph 2</h3>
             <div class="chart" id="Chart6"></div>
-            
             <p>The second graph is unstacked and uses lines to allow easier reading of individual country data and comparisons between countries over time.</p>
         
         </div>
@@ -105,12 +102,9 @@
                <a href="https://colab.research.google.com/drive/12sW15prpMh3FCnvCW2ZFGqeOCw7oPC-w?authuser=1#scrollTo=W24bRm6Li5G8">Colab</a>
             </p>
             <div class="chart" id="Chart17"></div>
-            
             <h3>Graph 2 - House Price increase in London since 2000</h3>
-            
-            <div class="chart" id="Chart18"></div>
             <p>I used House Price data for each London Borough over the past 20 years and rebased to the year 2000 to allow better comparisons between boroughs</p>
-            
+            <div class="chart" id="Chart18"></div>
         </div>
 
         <div class="Week8">
@@ -133,13 +127,12 @@
            
             <h2>Week 9 Homework</h2>
             <h3>Advanced Charts</h3>
-            <p>ab</p>
+            <p>a</p>
             <div class="chart" id="Chart21"></div>
-            <div class="chart" id="Chart22"></div>
             <p>b 
                 <a href="https://colab.research.google.com/drive/1QmVb4-bCPeYsy09S1cZ6pjbBVrWGwqO3?authuser=1#scrollTo=pT_mjeDH2pju">Colab</a>
             </p>
-            
+            <div class="chart" id="Chart22"></div>
             
         </div>
         <div class="Week10">
@@ -156,17 +149,17 @@
             </p>
             <div class="chart" id="Chart23"></div>
             <p>Screenshot of Colab graph before restricting domain (Rsq=0.0018). I did this due to the skew from countries such as Qatar ("exceptional" access to fossil fuels, very high GDP)</p>
-            <img src ="Week10/ColabRegression.png" height="360" width="580px">
+            <img src ="week10/ColabRegression.png" height="360" width="580">
 
             <h3>Unsupervised Learning</h3>
             <p>
               I used daily average (Farenheit) temperatures from 1950 to 2022 at Heathrow on the hypothesis that, with global warming, we would see years chronoligcally close to each other being clustered together. 
             </p>
-            <img src = "Week10/TimeSeries.png" height="300" width="400">
+            <img src = "week10/TimeSeries.png" height="300" width="400">
             <p>
                 The results aren't surprising, with only three years since 2000 in the right two clusters that seem to correspond to cooler year clusters. I was surprised that none of the five hottest years were directly grouped together, which goes to show they must have had varying warmer periods during their respective years.
             </p>
-            <img src = "Week10/Dendogram.png" height="400" width="700">
+            <img src = "week10/Dendogram.png" height="400" width="700">
 
         </div>
         </h3>
@@ -196,9 +189,9 @@
     var myChart18 = "week7/HousePrice.json";
     var myChart19 = "week8/BTCprice.json";
     var myChart20 = "week8/BTCsearch.json";
-    var myChart21 = "Project/GDPkwH.json";
-    var myChart22 = "Project/Trellis.json";
-    var myChart23 = "Week10/Regression_FossilGDP.json"
+    var myChart21 = "week9/GDPkWh.json";
+    var myChart22 = "week9/Trellis.json";
+    var myChart23 = "week10/Regression_FossilGDP.json"
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
