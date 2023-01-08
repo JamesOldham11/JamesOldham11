@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 290,
   "height": 300,
-  "background": "null",
+  "background": null,
   "data": {
     "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/Project/LEPollutionReg%20(1).csv"
   },
