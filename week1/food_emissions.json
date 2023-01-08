@@ -6,7 +6,7 @@
     "mark": "bar",
     "width": 250,
     "height": 250,
-    "background": "rgb(170,200,180)",
+    "background": null,
 
     "title": {
       "text": "Food - CO2 greenhouse gas emissions",
