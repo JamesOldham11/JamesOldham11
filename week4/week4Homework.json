@@ -8,10 +8,11 @@
     "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/week4/week4Homework.csv"
   },
   "encoding": {
-    "y": {"field": "Club", "type": "nominal", "sort": ["ascending"]},
+    "y": {"field": "Rank", "type": "nominal", "sort": ["ascending"]},
     "x": {"field": "Points", "type": "quantitative"},
     "color": {"field": "Club", "scale": {"scheme": "category20b"},
              "legend": null}
+    "tooltip": [{"field": "Club"}]
   },
   "layer": [
     {"mark": "bar"},
