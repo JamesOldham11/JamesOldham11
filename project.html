@@ -34,17 +34,46 @@
 
     <div class="abc">
         
-        <h2>A</h2>
-        <p>a</p>
+        <h2> Background </h2>
+        <p> Developing countries have increased demand for energy as more sophisticated infrastructure, businesses and homes come into existence. 
+            In times past, the availability of fossil fuels allowed developing countries to rely on them as their primary energy source. 
+            However, with increased consciousness to climate change and the affordability of renewable energy – 
+            paired with recent increases in the price of oil and natural gas – 
+            this project seeks to answer whether developing countries could be incentivised to go green.
+        </p>
         <div class="chart" id="Chart1"></div>
-        <p>b</p>
+        <p> This choropleth displays percentage increase in energy demand between 1980 and 2019. While many developed countries have seen decreases, 
+            there are clear increases across much of South America, Africa and Asia – considered much of the developing world and where India and China have emerged as World Superpowers.
+            This is backed up by the bubble chart below, showing the correlation between GDP and kWh per capita over time with India and China the most obvious data points to follow with their large populations.
+        </p>
         <div class="chart" id="Chart2"></div>
-        <p>c</p>
+        <p> For the choropleth I downloaded the data to CSV before cleaning and calculating percentage increase using python. 
+            I then layered the data on to a geojson in vega-lite. Data for some countries was missing, particularly in central Africa, 
+            so I decided to exclude them. The bubble chart merges the same data as the choropleth with data from the WorldBank API. 
+            I chose to make data points past $12,000 GDP per capita disappear, as to make the effect on developing countries more enunciated.
+        </p>
+        <h2> Economic Factors </h2>
+        <p>
+            I hypothesised that countries successful in reducing their reliance on fossil fuels may benefit from higher GDP. The regression below shows a weak proportion (0.12) of variation in percent of fossil fuel can be attributed to increases in GDP. 
+            I removed countries at either end of the spectrum, such as Qatar and Iceland that may have exceptional access to fossil fuels or renewables respectively.
+        </p>
         <div class="chart" id="Chart3"></div>
-        <p>d 
+        <p>
+            To achieve the regression I used a loop to append data from the WorldBank API to a new dataset then merged with data from OurWorldinData. 
+            I then created the graph in Vega-Lite to benefit from the tooltip. 
+
+            Recent global factors may also support these developing countries in choosing against the use of fossil fuels. 
+            The trellis graph below uses the ONS API to show how the cost of Gas and Electricity has increased relative to other goods in the UK. 
+            You would expect the cost of both to be directly linked to global prices of natural gas and oil (fossil fuels) and hence be comparable in other countries, 
+            especially with the UK lying almost directly on the regression line and representing an “average” consumption of fossil fuels for its level of GDP per capita.
+
             <a href="https://colab.research.google.com/drive/1QmVb4-bCPeYsy09S1cZ6pjbBVrWGwqO3?authuser=1#scrollTo=pT_mjeDH2pju">Colab</a>
         </p>
         <div class="chart" id="Chart4"></div>
+        
+        <p> I chose to use a trellis graph to allow easy comparison between the goods. 
+            I used a loop to first extract the data from the API and then create a new dataframe for each series that would then be appended to a master dataframe.
+        </p>
 
         
 
