@@ -3,6 +3,7 @@
   "description": "Bar chart with text labels. Set domain to make the frame cover the labels.",
   "background": "rgb(170,200,180)",
   "width": 300,
+  "height": 300,
   "data": {
     "url": "https://raw.githubusercontent.com/JamesOldham11/JamesOldham11.github.io/main/week4/week4Homework.csv"
   },
@@ -10,7 +11,7 @@
     "y": {"field": "Club", "type": "nominal", "sort": ["ascending"]},
     "x": {"field": "Points", "type": "quantitative"},
     "color": {"field": "Club", "scale": {"scheme": "category20b"},
-             "legend": null},
+             "legend": null}
   },
   "layer": [
     {"mark": "bar"},
