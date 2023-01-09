@@ -9,7 +9,7 @@
   "mark": "line",
   "encoding": {
     "facet": {"field": "Series", "type": "ordinal", "columns": 2, 
-    "title": "Price Index (2015 = 100) of Gas/Electricity for Domestic Market vs other goods"},
+    "title": "Gas/Electricity for Domestic Market vs other goods"},
     "x": {"field": "Date", "type": "temporal"},
     "y": {
       "field": "Value",
