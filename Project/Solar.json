@@ -19,7 +19,7 @@
       }
     },
     {
-      "mark": {"type": "bar", "opacity": 0.5},
+      "mark": {"type": "bar", "opacity": 0.7},
       "encoding": {
         "y": {
           "aggregate": "average",
