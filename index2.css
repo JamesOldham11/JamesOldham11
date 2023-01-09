@@ -11,17 +11,17 @@ body{
 
 
 /* Choose the appearance of the tags, h1, h3 and p: */
-h1, h3, p{
+h1, h3{
     color:black;
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    max-width: 800px;
 }
 
 p{color:black;
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    font-size: 18px;
+    font-size: 15px;
+    max-width: 800px;
 }
 
 h4{color:black;
