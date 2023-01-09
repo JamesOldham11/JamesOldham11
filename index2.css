@@ -113,6 +113,8 @@ h1, h3, p{
     margin: 0 auto;
 }
 
+/* I made separate divisions for each week and section of my project in antipaction of altering more between them, but didn't end up doing much */
+
 .PageHeader{
     margin: auto; 
     max-width: 900px;
@@ -146,6 +148,7 @@ h1, h3, p{
     border: solid;
     border-radius: 5px;
     border-color:black;
+    padding: 20px;
 
 
 }
@@ -164,6 +167,7 @@ h1, h3, p{
     border: solid;
     border-radius: 5px;
     border-color:black;
+    padding 20px;
     
 }
 
