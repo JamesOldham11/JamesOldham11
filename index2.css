@@ -17,6 +17,25 @@ h1, h3, p{
     text-align: center;
 }
 
+p{color:black;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 18px;
+}
+
+h4{color:black;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 16px;
+}
+
+h6{
+    color:black;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 10px;
+}
+
 /* Appearance for buttons */
 
 .containerButton {
